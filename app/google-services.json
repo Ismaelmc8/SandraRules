@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545781173452",
+    "firebase_url": "https://myprojectalpha-dd395.firebaseio.com",
+    "project_id": "myprojectalpha-dd395",
+    "storage_bucket": "myprojectalpha-dd395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545781173452:android:1a1727dd7dd49a34",
+        "android_client_info": {
+          "package_name": "com.example.elamorhallegadoavues.slowapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545781173452-h0gsn1g07f6n5et1gjak001qo0ffjtqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8dhV10B2niClosoe-qZLhjmG6LNoCgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
